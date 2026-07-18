@@ -8,5 +8,8 @@
     "origin.ice.robot.name": "Robot",
     "origin.ice.robot.description": "This origin makes my think of the wild robot",
     "origin.ice.thief.name": "Kazuma",
-    "origin.ice.thief.description": "Konosuba, i hardly know her"
+    "origin.ice.thief.description": "Konosuba, i hardly know her",
+
+    "power.ice.mbti/change.name": "Change MBTI",
+    "power.ice.mbti/change.description": "Change MBTI"
 }
