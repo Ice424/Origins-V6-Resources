@@ -11,5 +11,7 @@
     "origin.ice.thief.description": "Konosuba, i hardly know her",
 
     "power.ice.mbti/change.name": "Change MBTI",
-    "power.ice.mbti/change.description": "Change MBTI"
+    "power.ice.mbti/change.description": "Change MBTI",
+    "power.ice.thief/frail.name": "Weak Constitution",
+    "power.ice.thief/frail.description": "Due to your terrible physical stats, you retain less hitpoints than an average adventurer."
 }
