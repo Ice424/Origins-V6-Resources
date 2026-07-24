@@ -1,0 +1,9 @@
+{
+    "ice.sniper.fire": {
+        "sounds": [
+            {
+                "name": "ice:sniper"
+            }
+        ]
+    }
+}
