@@ -5,5 +5,13 @@
                 "name": "ice:sniper"
             }
         ]
+    },
+     "ice.caramelldansen.play": {
+        "sounds": [
+            {
+                "name": "ice:caramelldansen"
+            }
+        ]
     }
+
 }
