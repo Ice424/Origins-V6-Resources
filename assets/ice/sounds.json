@@ -12,6 +12,20 @@
                 "name": "ice:caramelldansen"
             }
         ]
+    },
+    "ice.rewind.user": {
+        "sounds": [
+            {
+                "name": "ice:rewind_user"
+            }
+        ]
+    },
+    "ice.rewind.victim": {
+        "sounds": [
+            {
+                "name": "ice:rewind_victim"
+            }
+        ]
     }
 
 }
