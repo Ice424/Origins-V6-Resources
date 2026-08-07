@@ -1,5 +1,6 @@
 {
     "ice.sniper.fire": {
+        "subtitle": "subtitles.ice.sniper.fire",
         "sounds": [
             {
                 "name": "ice:sniper"
@@ -7,8 +8,10 @@
         ]
     },
      "ice.caramelldansen.play": {
+        "subtitle": "subtitles.ice.caramelldansen.play",
         "sounds": [
             {
+                "stream": true,
                 "name": "ice:caramelldansen"
             }
         ]
@@ -24,6 +27,31 @@
         "sounds": [
             {
                 "name": "ice:rewind_victim"
+            }
+        ]
+    },
+    "ice.flowery.jarona": {
+        "subtitle": "subtitles.ice.flowery.jarona",
+        "sounds": [
+            {
+                "name": "ice:flowery_voiceclip_jarona_1"
+            },
+            {
+                "name": "ice:flowery_voiceclip_jarona_2"
+            },
+            {
+                "name": "ice:flowery_voiceclip_jarona_3"
+            },
+            {
+                "name": "ice:flowery_voiceclip_jarona_4"
+            }
+        ]
+    },
+    "ice.flowery.flower_man": {
+        "subtitle": "subtitles.ice.flowery.flower_man",
+        "sounds": [
+            {
+                "name": "ice:flower_man"
             }
         ]
     }
