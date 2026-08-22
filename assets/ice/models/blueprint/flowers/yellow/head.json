@@ -1,0 +1,6 @@
+{
+	"parent": "ice:blueprint/flowers/head",
+	"textures": {
+		"10": "ice:blueprint/flowers/yellow_idle"
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"parent": "ice:blueprint/flowers/left_leg",
+	"textures": {
+		"6": "ice:blueprint/flowers/aqua_idle",
+		"7": "ice:blueprint/flowers/seth_idle",
+		"8": "ice:blueprint/flowers/orange_idle",
+		"9": "ice:blueprint/flowers/blue_idle",
+		"10": "ice:blueprint/flowers/yellow_idle",
+		"11": "ice:blueprint/flowers/green_idle",
+		"12": "ice:blueprint/flowers/flowery"
+	}
+}

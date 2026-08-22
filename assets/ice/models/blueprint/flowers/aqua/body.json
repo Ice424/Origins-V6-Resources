@@ -1,0 +1,6 @@
+{
+	"parent": "ice:blueprint/flowers/body",
+	"textures": {
+		"6": "ice:blueprint/flowers/aqua_idle"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "ice:blueprint/flowers/right_arm",
+	"textures": {
+		"11": "ice:blueprint/flowers/green_idle"
+	}
+}

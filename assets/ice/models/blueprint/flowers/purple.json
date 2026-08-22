@@ -1,0 +1,32 @@
+{
+	"textures": {
+		"7": "ice:blueprint/flowers/seth_invis",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [-0.17994, -2.25, 7.94663],
+			"to": [16.32006, 18.25, 7.94663],
+			"rotation": {
+				"angle": -22.5,
+				"axis": "y",
+				"origin": [7.90087, 8, 7.79721]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 0, 8.25, 10.25],
+					"texture": "#7"
+				},
+				"south": {
+					"uv": [0, 0, 8.25, 10.25],
+					"texture": "#7"
+				}
+			}
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"textures": {
+		"8": "ice:blueprint/flowers/orange_invis",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [-2.70601, 2.5, 8.08308],
+			"to": [18.29399, 13.5, 8.08308],
+			"rotation": {
+				"angle": 22.5,
+				"axis": "y",
+				"origin": [7.68816, 8, 7.52371]
+			},
+			"faces": {
+				"north": {
+					"uv": [9.75, 0, 0, 5.5],
+					"texture": "#8"
+				},
+				"south": {
+					"uv": [9.75, 0, 0, 5.5],
+					"texture": "#8"
+				}
+			}
+		}
+	]
+}

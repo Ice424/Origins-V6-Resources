@@ -1,0 +1,691 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "minecraft:item/white_dye"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "animated_java:empty"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "ice:blueprint/flowers/yellow"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "ice:blueprint/flowers/blue"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "ice:blueprint/flowers/aqua"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "ice:blueprint/flowers/orange"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "ice:blueprint/flowers/purple"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "ice:blueprint/flowers/green"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "ice:blueprint/flowers/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9
+			},
+			"model": "ice:blueprint/flowers/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10
+			},
+			"model": "ice:blueprint/flowers/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 11
+			},
+			"model": "ice:blueprint/flowers/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 12
+			},
+			"model": "ice:blueprint/flowers/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 13
+			},
+			"model": "ice:blueprint/flowers/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 14
+			},
+			"model": "ice:blueprint/flowers/aqua/yellow"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 15
+			},
+			"model": "ice:blueprint/flowers/aqua/blue"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 16
+			},
+			"model": "ice:blueprint/flowers/aqua/aqua"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 17
+			},
+			"model": "ice:blueprint/flowers/aqua/orange"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 18
+			},
+			"model": "ice:blueprint/flowers/aqua/purple"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 19
+			},
+			"model": "ice:blueprint/flowers/aqua/green"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 20
+			},
+			"model": "ice:blueprint/flowers/aqua/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 21
+			},
+			"model": "ice:blueprint/flowers/aqua/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 22
+			},
+			"model": "ice:blueprint/flowers/aqua/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 23
+			},
+			"model": "ice:blueprint/flowers/aqua/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 24
+			},
+			"model": "ice:blueprint/flowers/aqua/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 25
+			},
+			"model": "ice:blueprint/flowers/aqua/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 26
+			},
+			"model": "ice:blueprint/flowers/purple/yellow"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 27
+			},
+			"model": "ice:blueprint/flowers/purple/blue"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 28
+			},
+			"model": "ice:blueprint/flowers/purple/aqua"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 29
+			},
+			"model": "ice:blueprint/flowers/purple/orange"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 30
+			},
+			"model": "ice:blueprint/flowers/purple/purple"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 31
+			},
+			"model": "ice:blueprint/flowers/purple/green"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 32
+			},
+			"model": "ice:blueprint/flowers/purple/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 33
+			},
+			"model": "ice:blueprint/flowers/purple/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 34
+			},
+			"model": "ice:blueprint/flowers/purple/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 35
+			},
+			"model": "ice:blueprint/flowers/purple/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 36
+			},
+			"model": "ice:blueprint/flowers/purple/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 37
+			},
+			"model": "ice:blueprint/flowers/purple/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 38
+			},
+			"model": "ice:blueprint/flowers/orange/yellow"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 39
+			},
+			"model": "ice:blueprint/flowers/orange/blue"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 40
+			},
+			"model": "ice:blueprint/flowers/orange/aqua"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 41
+			},
+			"model": "ice:blueprint/flowers/orange/orange"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 42
+			},
+			"model": "ice:blueprint/flowers/orange/purple"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 43
+			},
+			"model": "ice:blueprint/flowers/orange/green"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 44
+			},
+			"model": "ice:blueprint/flowers/orange/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 45
+			},
+			"model": "ice:blueprint/flowers/orange/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 46
+			},
+			"model": "ice:blueprint/flowers/orange/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 47
+			},
+			"model": "ice:blueprint/flowers/orange/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 48
+			},
+			"model": "ice:blueprint/flowers/orange/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 49
+			},
+			"model": "ice:blueprint/flowers/orange/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 50
+			},
+			"model": "ice:blueprint/flowers/blue/yellow"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 51
+			},
+			"model": "ice:blueprint/flowers/blue/blue"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 52
+			},
+			"model": "ice:blueprint/flowers/blue/aqua"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 53
+			},
+			"model": "ice:blueprint/flowers/blue/orange"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 54
+			},
+			"model": "ice:blueprint/flowers/blue/purple"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 55
+			},
+			"model": "ice:blueprint/flowers/blue/green"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 56
+			},
+			"model": "ice:blueprint/flowers/blue/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 57
+			},
+			"model": "ice:blueprint/flowers/blue/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 58
+			},
+			"model": "ice:blueprint/flowers/blue/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 59
+			},
+			"model": "ice:blueprint/flowers/blue/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 60
+			},
+			"model": "ice:blueprint/flowers/blue/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 61
+			},
+			"model": "ice:blueprint/flowers/blue/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 62
+			},
+			"model": "ice:blueprint/flowers/yellow/yellow"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 63
+			},
+			"model": "ice:blueprint/flowers/yellow/blue"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 64
+			},
+			"model": "ice:blueprint/flowers/yellow/aqua"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 65
+			},
+			"model": "ice:blueprint/flowers/yellow/orange"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 66
+			},
+			"model": "ice:blueprint/flowers/yellow/purple"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 67
+			},
+			"model": "ice:blueprint/flowers/yellow/green"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 68
+			},
+			"model": "ice:blueprint/flowers/yellow/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 69
+			},
+			"model": "ice:blueprint/flowers/yellow/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 70
+			},
+			"model": "ice:blueprint/flowers/yellow/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 71
+			},
+			"model": "ice:blueprint/flowers/yellow/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72
+			},
+			"model": "ice:blueprint/flowers/yellow/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 73
+			},
+			"model": "ice:blueprint/flowers/yellow/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 74
+			},
+			"model": "ice:blueprint/flowers/green/yellow"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 75
+			},
+			"model": "ice:blueprint/flowers/green/blue"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 76
+			},
+			"model": "ice:blueprint/flowers/green/aqua"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 77
+			},
+			"model": "ice:blueprint/flowers/green/orange"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 78
+			},
+			"model": "ice:blueprint/flowers/green/purple"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 79
+			},
+			"model": "ice:blueprint/flowers/green/green"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 80
+			},
+			"model": "ice:blueprint/flowers/green/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 81
+			},
+			"model": "ice:blueprint/flowers/green/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 82
+			},
+			"model": "ice:blueprint/flowers/green/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 83
+			},
+			"model": "ice:blueprint/flowers/green/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 84
+			},
+			"model": "ice:blueprint/flowers/green/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 85
+			},
+			"model": "ice:blueprint/flowers/green/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 86
+			},
+			"model": "ice:blueprint/flowers/all/yellow"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 87
+			},
+			"model": "ice:blueprint/flowers/all/blue"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 88
+			},
+			"model": "ice:blueprint/flowers/all/aqua"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 89
+			},
+			"model": "ice:blueprint/flowers/all/orange"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 90
+			},
+			"model": "ice:blueprint/flowers/all/purple"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 91
+			},
+			"model": "ice:blueprint/flowers/all/green"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 92
+			},
+			"model": "ice:blueprint/flowers/all/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 93
+			},
+			"model": "ice:blueprint/flowers/all/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 94
+			},
+			"model": "ice:blueprint/flowers/all/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 95
+			},
+			"model": "ice:blueprint/flowers/all/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 96
+			},
+			"model": "ice:blueprint/flowers/all/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 97
+			},
+			"model": "ice:blueprint/flowers/all/right_leg"
+		}
+	],
+	"animated_java": {
+		"ice:flowers": [
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9,
+			10,
+			11,
+			12,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			21,
+			22,
+			23,
+			24,
+			25,
+			26,
+			27,
+			28,
+			29,
+			30,
+			31,
+			32,
+			33,
+			34,
+			35,
+			36,
+			37,
+			38,
+			39,
+			40,
+			41,
+			42,
+			43,
+			44,
+			45,
+			46,
+			47,
+			48,
+			49,
+			50,
+			51,
+			52,
+			53,
+			54,
+			55,
+			56,
+			57,
+			58,
+			59,
+			60,
+			61,
+			62,
+			63,
+			64,
+			65,
+			66,
+			67,
+			68,
+			69,
+			70,
+			71,
+			72,
+			73,
+			74,
+			75,
+			76,
+			77,
+			78,
+			79,
+			80,
+			81,
+			82,
+			83,
+			84,
+			85,
+			86,
+			87,
+			88,
+			89,
+			90,
+			91,
+			92,
+			93,
+			94,
+			95,
+			96,
+			97
+		]
+	}
+}

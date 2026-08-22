@@ -1,0 +1,6 @@
+{
+	"parent": "ice:blueprint/flowers/left_leg",
+	"textures": {
+		"9": "ice:blueprint/flowers/blue_idle"
+	}
+}
